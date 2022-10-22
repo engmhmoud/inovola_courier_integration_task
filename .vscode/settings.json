@@ -1,0 +1,63 @@
+// {
+//     "cSpell.language": "en-GB",
+//     "cSpell.enabled": false,
+//     // "python.linting.pylintEnabled": true,
+//     // "python.linting.enabled": true
+//     "editor.suggest.insertMode": "replace",
+//     "git.ignoreLimitWarning": true,
+//     "python.linting.pylintEnabled": false,
+//     // "python.pythonPath": "C:\\ProgramData\\Anaconda3\\envs\\djangoSite2\\python.exe",
+//     // "python.linting.pylintEnabled": true,
+//     "python.linting.pylintArgs": [
+//         "--enable=F,E,W",
+//         "--load-plugins=pylint_django",
+//         "pylint_django",
+//         // "--disable=C0111",
+//         "--load-plugins",
+//     ],
+//     "python.formatting.blackArgs": [
+//         "--line-length=145",
+//     ],
+//     "python.formatting.provider": "black",
+//     "python.linting.enabled": true,
+//     "cornflakes.linter.run": "onType",
+//     "python.linter": "flake8",
+//     "python.linting.banditEnabled": false,
+//     // "python.linting.flake8Enabled": true,
+//     "python.linting.pycodestyleEnabled": true,
+//     "python.linting.pycodestyleArgs": [
+//         "--ignore=E501,W504"
+//     ],
+//     "python.linting.flake8Args": [
+//         "--max-line-length=145",
+//         "--ignore=E402,F841,F401,E302,E305,E501,E241,E303,W504",
+//     ],
+//     "editor.formatOnSave": false,
+//     "editor.formatOnSaveMode": "file",
+//     "python.linting.lintOnSave": false,
+//     "[python]": {
+//         "editor.tabSize": 2,
+//         "editor.insertSpaces": true,
+//         "editor.formatOnSave": true
+//     },
+//     "editor.quickSuggestions": {
+        
+//         "other": true,
+//         "snippetSuggestions":false,
+//         "comments": false,
+//         "strings": false,
+//     },
+     
+//     "editor.acceptSuggestionOnEnter": "smart",
+//     "editor.snippetSuggestions": "bottom",
+//     "cSpell.words": [
+//         "Ayat",
+//         "cond",
+//         "jqoezr",
+//         "Tafsir"
+//     ],
+//     "jupyter.debugJustMyCode": true,
+//     "debug.allowBreakpointsEverywhere": true, 
+//     "editor.bracketPairColorization.enabled": true,
+//     "editor.guides.bracketPairs":"active"
+// }
