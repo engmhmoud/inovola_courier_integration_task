@@ -33,9 +33,10 @@ def print_waybill(order: Order):
     check, response = call_courier_api(
         **caller_data, prepare_response=False, model=ORDER_MODEL)
 
-    return check, response
     if not check:
         raise Exception(response)
+
+    return check, response
 
 
 def get_status(instance: Order):

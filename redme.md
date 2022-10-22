@@ -18,15 +18,15 @@ the main app is base (we can split it into many small apps):
         -we can update this data with two ways :
             1-if  there is an error from courier about one of this fields that's mean there is an update and we must take it .
             2-hooks in this sites if available  , listeners  or (task run every specific time   ->this will not delete our need to first solution)
-
-
-
-
         
         - our app should have to contaian all data any courier can need (as much as possible )=> and give every courier what he need only .
 
 
+        integration module:
+        is the integration with all couriers 
+        we are trying to make at least at possible custom implementation .
 
+ 
 get status:
 
     -get status have two solutions:
